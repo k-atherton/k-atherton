@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**k-atherton/k-atherton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, I'm [Kathryn Atherton][website]
 
-Here are some ideas to get you started:
+## I'm a PhD Student at Boston University!
+- I'm in the Bioinformatics and URBAN programs at BU!
+- I'm a member of the Bhatnagar Lab
+- I study how urban soil microbiome diversity impacts human health and how to engineer urban microbiomes to improve human health outcomes. 
+- 2020 Goal: Submit my first first-author manuscript for publication!
+- Fun fact: I love to cook, sing, and watch sports (Liverpool F.C. are my favorite). 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Connect with me:
+
+[<img align="center" alt="kathrynatherton.com" width="22px" src="logos.png" />][website]
+[<img align="center" alt="Kathryn Atherton | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="Kathryn Atherton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+---
+### Latest Science Writing
+<!-- BLOG-POST-LIST:START -->
+- [A two degree temperature increase nearly triples pathogens that cause plant disease](https://massivesci.com/notes/soil-health-pathogens-food-agriculture-production/)
+- [COVID-19 Mortality Is Worsened By Air Pollution, New Research Finds](https://www.sciencefriday.com/articles/air-pollution-covid/)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+<img align="left" alt="Kathryn Atherton's Github Stats" src="https://github-readme-stats.vercel.app/api?username=k-atherton&show_icons=true&hide_border=true" />
+
+[website]: https://kathrynatherton.com
+[twitter]: https://twitter.com/k_atherton1
+[linkedin]: https://www.linkedin.com/in/kathryn-atherton/
