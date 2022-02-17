@@ -5,9 +5,9 @@
 ## I'm a PhD Student at Boston University!
 - I'm in the Bioinformatics and URBAN programs at BU!
 - I'm a member of the Bhatnagar Lab
-- I study how urban soil microbiome diversity impacts human health and how to engineer urban microbiomes to improve human health outcomes. 
-- 2020 Goal: Submit my first first-author manuscript for publication!
-- Fun fact: I love to cook, sing, and watch sports (Liverpool F.C. are my favorite). 
+- I study how urbanization impacts the soil microbiome and how soil microbes in turn impact the health of trees.
+- 2022 Goal: Submit my first first-author manuscript for publication!
+- Fun fact: I love to do crosswordes, sing, and watch sports (Liverpool F.C. are my favorite). 
 
 ### Connect with me:
 
