@@ -36,7 +36,7 @@
 - [Photosymbiosis reduces the environmental stress response under a heat challenge in a facultatively symbiotic coral](https://doi.org/10.1038/s41598-024-66057-2)
 - [Symbiosis modulates gene expression of photobionts, but not hosts, under thermal challenge](https://doi.org/10.1111/mec.17318)
 - [Association of _APOE_ Genotypes and Chronic Traumatic Encephalopathy](https://jamanetwork.com/journals/jamaneurology/fullarticle/2793575)
-- [Soil microbiome predictability increases with spatial and taxonomic scale](https://doi.org/10.1038/s41559-021-01445-9))
+- [Soil microbiome predictability increases with spatial and taxonomic scale](https://doi.org/10.1038/s41559-021-01445-9)
 <!-- BLOG-POST-LIST:END -->
 ---
 
