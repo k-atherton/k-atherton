@@ -11,7 +11,8 @@
 ### Connect with me:
 
 [<img align="center" alt="kathrynatherton.com" width="22px" src="logos.png" />][website]
-[<img align="center" alt="Kathryn Atherton | BlueSky" width="22px" src="bluesky.svg" />][bluesky]
+[<img align="center" alt="Kathryn Atherton | BlueSky" width="22px" src="Bluesky--Streamline-Simple-Icons.svg
+" />][bluesky]
 [<img align="center" alt="Kathryn Atherton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
