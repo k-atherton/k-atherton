@@ -17,9 +17,18 @@
 <br />
 
 ---
-### PhD Thesis Publications
+### PhD Thesis Chapters
 <!-- BLOG-POST-LIST:START -->
-- [Urbanization and fragmentation interact to drive mutualism breakdown and the rise of unstable pathogenic communities in the forest soil microbiome](https://doi.org/10.1073/pnas.2307519120)
+- NEPTUNE: NEtwork PaTterns of Soil Microbiomes in Urban New England
+    - Published in _PNAS_ in 2023: [Urbanization and fragmentation interact to drive mutualism breakdown and the rise of unstable pathogenic communities in the forest soil microbiome](https://doi.org/10.1073/pnas.2307519120)
+- M-BUDS: M-BUDS: MicroBiome Urban Dysbiosis in Street trees
+  - In review at _Nature Cities_
+- MEMENTO: Modeling Environmental and Microbial Effects on New England Tree Outcomes
+  - In progress
+- MMG: MycoMetaGenome Predictor
+  - In progress
+- PASTR: PArcel Segmentation for Tree Recommendations
+  - [Internship](https://sites.bu.edu/urban/atherton-speak-for-the-trees/) with Speak for the Trees Boston
 <!-- BLOG-POST-LIST:END -->
 
 ### Science Communication Writing
