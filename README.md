@@ -6,7 +6,7 @@
 - I'm in the Bioinformatics and URBAN programs at BU!
 - I'm a member of the Bhatnagar Lab
 - I study how urbanization impacts the soil microbiome and how soil microbes in turn impact the health of trees.
-- Fun fact: I love to do crosswords, sing, and watch sports (Liverpool F.C. are my favorite). 
+- Fun fact: I love to crochet, sing, and watch sports (Liverpool F.C. are my favorite). 
 
 ### Connect with me:
 
