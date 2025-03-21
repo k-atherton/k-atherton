@@ -11,8 +11,7 @@
 ### Connect with me:
 
 [<img align="center" alt="kathrynatherton.com" width="22px" src="logos.png" />][website]
-[<img align="center" alt="Kathryn Atherton | BlueSky" width="22px" src="Bluesky--Streamline-Simple-Icons.svg
-" />][bluesky]
+[<img align="center" alt="Kathryn Atherton | BlueSky" width="22px" src="Bluesky--Streamline-Simple-Icons.svg" />][bluesky]
 [<img align="center" alt="Kathryn Atherton | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -29,5 +28,5 @@
 <img align="left" alt="Kathryn Atherton's Github Stats" src="https://github-readme-stats.vercel.app/api?username=k-atherton&show_icons=true&hide_border=true" />
 
 [website]: https://kathrynatherton.com
-[bluesky]: [https://twitter.com/k_atherton1](https://bsky.app/profile/k8eatherton.bsky.social)
+[bluesky]: https://bsky.app/profile/k8eatherton.bsky.social
 [linkedin]: https://www.linkedin.com/in/kathryn-atherton/
