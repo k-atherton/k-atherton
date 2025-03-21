@@ -3,9 +3,9 @@
 # Hello, I'm [Kathryn Atherton][website]
 
 ## I'm a PhD Student at Boston University!
-- I'm in the Bioinformatics and URBAN programs at BU!
-- I'm a member of the Bhatnagar Lab
-- I study how urbanization impacts the soil microbiome and how soil microbes in turn impact the health of trees.
+- I'm in the [Bioinformatics](https://www.bu.edu/bioinformatics/) and [URBAN](https://sites.bu.edu/urban/) programs at BU!
+- I'm a member of the [Bhatnagar Lab](https://microbesatbu.wordpress.com/)
+- I study how urbanization impacts the tree-associated microbiome and how microbes in turn impact the health of trees.
 - Fun fact: I love to crochet, sing, and watch sports (Liverpool F.C. are my favorite). 
 
 ### Connect with me:
