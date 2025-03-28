@@ -21,7 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 - NEPTUNE: NEtwork PaTterns of Soil Microbiomes in Urban New England
     - Published in _PNAS_ in 2023: [Urbanization and fragmentation interact to drive mutualism breakdown and the rise of unstable pathogenic communities in the forest soil microbiome](https://doi.org/10.1073/pnas.2307519120)
-- M-BUDS: M-BUDS: MicroBiome Urban Dysbiosis in Street trees
+- M-BUDS: MicroBiome Urban Dysbiosis in Street trees
   - In review at _Nature Cities_: [Atherton, K.F., Tatsumi, C., Frenette, I., Heaton, D., Smith, I.A., Hutyra, L.R., Templer, P.H., & Bhatnagar, J.M. Dysbiosis in the urban tree microbiome](https://doi.org/10.21203/rs.3.rs-5939048/v1)
 - MEMENTO: Modeling Environmental and Microbial Effects on New England Tree Outcomes
   - In progress
