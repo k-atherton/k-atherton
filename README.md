@@ -27,6 +27,7 @@
   - In progress
 - MMG: MycoMetaGenome Predictor
   - In progress
+      - Usage of this pipeline in review at _Ecosphere_: [Vietorisz, C., Policelli, N., Li, A., Adams, L., Atherton, K.F., & Bhatnagar, J.M. Microbial functional guilds and genes are key to explaining soil nutrient cycling alongside soil and plant variables](https://doi.org/10.1101/2024.12.13.627780) 
 - PASTR: PArcel Segmentation for Tree Recommendations
   - [Internship](https://sites.bu.edu/urban/atherton-speak-for-the-trees/) with Speak for the Trees Boston
 <!-- BLOG-POST-LIST:END -->
