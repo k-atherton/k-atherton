@@ -25,7 +25,7 @@
   - In review at _Nature Cities_: [Atherton, K.F., Tatsumi, C., Frenette, I., Heaton, D., Smith, I.A., Hutyra, L.R., Templer, P.H., & Bhatnagar, J.M. Dysbiosis in the urban tree microbiome](https://doi.org/10.21203/rs.3.rs-5939048/v1)
 - MEMENTO: Modeling Environmental and Microbial Effects on New England Tree Outcomes
   - In progress
-- MMG: MycoMetaGenome Predictor
+- Fun2FITS: Fungi to Function with ITS
   - In progress
       - Usage of this pipeline in review at _Ecosphere_: [Vietorisz, C., Policelli, N., Li, A., Adams, L., Atherton, K.F., & Bhatnagar, J.M. Microbial functional guilds and genes are key to explaining soil nutrient cycling alongside soil and plant variables](https://doi.org/10.1101/2024.12.13.627780) 
 - PASTR: PArcel Segmentation for Tree Recommendations
