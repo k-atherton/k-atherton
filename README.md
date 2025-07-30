@@ -30,6 +30,9 @@
   - [Internship](https://sites.bu.edu/urban/atherton-speak-for-the-trees/) with Speak for the Trees Boston
 <!-- BLOG-POST-LIST:END -->
 
+### Other Workflows
+- [Amplicon Sequence Cleaning workflow](https://github.com/k-atherton/Amplicon_Sequence_Cleaning): Used in my M-BUDS and MEMENTO projects. 
+
 ### Science Communication Writing
 <!-- BLOG-POST-LIST:START -->
 - [Fungi are the future: Realizing the potential of fungi in policy](https://sciencepolicyreview.pubpub.org/pub/av7npje2/release/2)
