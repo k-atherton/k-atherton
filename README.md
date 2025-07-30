@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Hello, I'm [Kathryn Atherton][website]
 
 ## I'm a PhD Student at Boston University!
