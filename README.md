@@ -41,10 +41,10 @@
 
 ### Other Publications & Collaborations
 <!-- BLOG-POST-LIST:START -->
-- [Photosymbiosis reduces the environmental stress response under a heat challenge in a facultatively symbiotic coral](https://doi.org/10.1038/s41598-024-66057-2)
-- [Symbiosis modulates gene expression of photobionts, but not hosts, under thermal challenge](https://doi.org/10.1111/mec.17318)
-- [Association of _APOE_ Genotypes and Chronic Traumatic Encephalopathy](https://jamanetwork.com/journals/jamaneurology/fullarticle/2793575)
-- [Soil microbiome predictability increases with spatial and taxonomic scale](https://doi.org/10.1038/s41559-021-01445-9)
+- [Photosymbiosis reduces the environmental stress response under a heat challenge in a facultatively symbiotic coral](https://doi.org/10.1038/s41598-024-66057-2): This was my Bioinformatics first year wet lab rotation project, where I helped extract total RNA from corals.
+- [Symbiosis modulates gene expression of photobionts, but not hosts, under thermal challenge](https://doi.org/10.1111/mec.17318): Just like above, this was my Bioinformatics first year wet lab rotation project, where I helped extract total RNA from corals. 
+- [Association of _APOE_ Genotypes and Chronic Traumatic Encephalopathy](https://jamanetwork.com/journals/jamaneurology/fullarticle/2793575): This was my Bioinformatics first year challenge project, where I led an analysis of the relationship of APOE genotypes, the gene primarily associated with Alzheimer's Disease, and Chronic Traumatic Encephalopathy (CTE) disease severity.
+- [Soil microbiome predictability increases with spatial and taxonomic scale](https://doi.org/10.1038/s41559-021-01445-9): This was my Research Experiences for Undergraduates (REU) project as a Bioinformatics Research and Interdisciplinary Training Experience (BRITE) intern at Boston University under Dr. Jennifer Bhatnagar and Dr. Colin Averill where I helped fit models of environmental covariates against fungal and bacterial communities at the global scale.
 <!-- BLOG-POST-LIST:END -->
 ---
 
