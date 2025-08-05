@@ -31,7 +31,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ### Other Workflows
-- [A DNA Amplicon Sequence Data Processing and Analysis Pipeline for Environmental Microbiomes](https://github.com/k-atherton/Amplicon_Sequence_Cleaning): Used in my M-BUDS and MEMENTO projects. 
+- [A DNA Amplicon Sequence Data Processing and Analysis Pipeline for Environmental Microbiomes](https://github.com/k-atherton/Amplicon_Sequence_Data_Processing): Used in my M-BUDS and MEMENTO projects. 
 
 ### Science Communication Writing
 <!-- BLOG-POST-LIST:START -->
