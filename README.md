@@ -1,10 +1,10 @@
-# Hello, I'm [Kathryn Atherton][website]
+# Hello, I'm [Kathryn Atherton, PhD][website]
 
-## I'm a PhD Student at Boston University!
-- I'm in the [Bioinformatics](https://www.bu.edu/bioinformatics/) and [URBAN](https://sites.bu.edu/urban/) programs at BU!
-- I'm a member of the [Bhatnagar Lab](https://microbesatbu.wordpress.com/)
-- I study how urbanization impacts the tree-associated microbiome and how microbes in turn impact the health of trees.
-- Fun fact: I love to crochet, sing, and watch sports (Liverpool F.C. are my favorite). 
+## I received my PhD in Bioinformatics from Boston University!
+- I was in the [Bioinformatics](https://www.bu.edu/bioinformatics/) and [URBAN](https://sites.bu.edu/urban/) programs at BU!
+- I was member of the [Bhatnagar Lab](https://microbesatbu.wordpress.com/)
+- I studied how urbanization impacts the tree-associated microbiome and how microbes in turn impact the health of trees.
+- I love to crochet, watch movies, and watch sports (Liverpool F.C. are my favorite). 
 
 ### Connect with me:
 
